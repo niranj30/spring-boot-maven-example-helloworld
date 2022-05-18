@@ -4,7 +4,7 @@ Guide
 
 This is a part of the tutorial http://javabycode.com/spring-framework-tutorial/spring-boot-tutorial/spring-boot-maven-example-hello-world.html
 
-What you'll need
+What you'll need 
 
     JDK 1.7 or later
     Maven 3 or later
@@ -14,3 +14,4 @@ What you'll need
 Run
 
     mvn spring-boot:run
+/*sample*/
